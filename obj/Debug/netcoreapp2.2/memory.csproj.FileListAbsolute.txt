@@ -1,0 +1,11 @@
+/Users/Chrissy/source/codeworks/csharp/memory/bin/Debug/netcoreapp2.2/memory.deps.json
+/Users/Chrissy/source/codeworks/csharp/memory/bin/Debug/netcoreapp2.2/memory.runtimeconfig.json
+/Users/Chrissy/source/codeworks/csharp/memory/bin/Debug/netcoreapp2.2/memory.runtimeconfig.dev.json
+/Users/Chrissy/source/codeworks/csharp/memory/bin/Debug/netcoreapp2.2/memory.dll
+/Users/Chrissy/source/codeworks/csharp/memory/bin/Debug/netcoreapp2.2/memory.pdb
+/Users/Chrissy/source/codeworks/csharp/memory/obj/Debug/netcoreapp2.2/memory.csprojAssemblyReference.cache
+/Users/Chrissy/source/codeworks/csharp/memory/obj/Debug/netcoreapp2.2/memory.csproj.CoreCompileInputs.cache
+/Users/Chrissy/source/codeworks/csharp/memory/obj/Debug/netcoreapp2.2/memory.AssemblyInfoInputs.cache
+/Users/Chrissy/source/codeworks/csharp/memory/obj/Debug/netcoreapp2.2/memory.AssemblyInfo.cs
+/Users/Chrissy/source/codeworks/csharp/memory/obj/Debug/netcoreapp2.2/memory.dll
+/Users/Chrissy/source/codeworks/csharp/memory/obj/Debug/netcoreapp2.2/memory.pdb
