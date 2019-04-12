@@ -11,7 +11,16 @@ namespace memory
       string userInput = Console.ReadLine();
 
       int userNum = Int32.Parse(userInput);
-      Console.WriteLine(userNum);
+
+      Random rand = new Random();
+      int randNum = rand.Next(0, 9);
+      Console.WriteLine(randNum);
+
+      if (randNum == userNum)
+      {
+        Console.WriteLine("Word, you right");
+      }
+      System.Console.WriteLine("Dawg, you wrong");
 
       //make game class
       //while playing writelines must match random number generator
