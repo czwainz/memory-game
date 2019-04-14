@@ -16,11 +16,20 @@ namespace memory
       int randNum = rand.Next(0, 9);
       Console.WriteLine(randNum);
 
-      if (randNum == userNum)
+      bool playing = true;
+
+      while (playing)
       {
-        Console.WriteLine("Word, you right");
+
+        if (randNum == userNum)
+        {
+          Console.WriteLine("Word, you right");
+          Console.Clear();
+        }
+        playing = false;
+        System.Console.WriteLine("Dawg, you wrong");
       }
-      System.Console.WriteLine("Dawg, you wrong");
+
 
       //make game class
       //while playing writelines must match random number generator
