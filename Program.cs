@@ -20,7 +20,6 @@ namespace memory
 
       while (playing)
       {
-
         if (randNum == userNum)
         {
           Console.WriteLine("Word, you right");
