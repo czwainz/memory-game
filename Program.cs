@@ -28,6 +28,7 @@ namespace memory
 
         }
         playing = false;
+        Console.Clear();
         System.Console.WriteLine("Dawg, you wrong");
       }
 
