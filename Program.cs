@@ -24,6 +24,8 @@ namespace memory
         {
           Console.WriteLine("Word, you right");
           Console.Clear();
+          Console.WriteLine("Guess it again!");
+
         }
         playing = false;
         System.Console.WriteLine("Dawg, you wrong");
