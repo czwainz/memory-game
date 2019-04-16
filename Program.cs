@@ -15,6 +15,7 @@ namespace memory
       Random rand = new Random();
       int randNum = rand.Next(0, 9);
       Console.WriteLine(randNum);
+      int randomSeq = randNum ^ 3;
 
       bool playing = true;
 
@@ -24,7 +25,7 @@ namespace memory
         {
           Console.WriteLine("Word, you right");
           Console.Clear();
-          Console.WriteLine("Guess it again!");
+          Console.WriteLine("Now remember this one and guess again!");
 
         }
         playing = false;
