@@ -28,10 +28,12 @@ namespace memory
           Console.WriteLine("Now remember this one and guess again!");
 
         }
-        playing = false;
+        // playing = false;
         Console.Clear();
         System.Console.WriteLine("Dawg, you wrong");
       }
+
+      Console.WriteLine("DAWGGGGG");
 
 
       //make game class
